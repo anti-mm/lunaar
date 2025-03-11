@@ -90,7 +90,7 @@ bgiminput.addEventListener("change", () => {
   }
 });
 bgimbutton.addEventListener("click", () => {
-  console.log("[Lunaar]", "resetting background image");
+  console.log("[Lunarr]", "resetting background image");
   localStorage.removeItem("backgroundImage");
   document.body.style.removeProperty("background-image");
   bgimgselect.value = "default";
@@ -178,7 +178,7 @@ const cloaks = [
   {
     name: "default",
     icon: "./media/logo.svg",
-    title: "Lunaar",
+    title: "Lunarr",
   },
   {
     name: "drive",

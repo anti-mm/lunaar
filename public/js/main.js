@@ -115,7 +115,7 @@ if (!getPath.includes("cdn")) {
         <a href="/science">
           <div class="navbar-item" id="games">
             <i class="fa-regular fa-gamepad"></i>
-            <span>Games</span>
+            <span>Science</span>
           </div>
         </a>
         <a href="/math">
@@ -193,7 +193,7 @@ if (!getPath.includes("cdn")) {
           address.placeholder = "Search the the web with Brave";
         }
       } catch (err) {
-        console.log("[Lunaar]", "Something bad happened", err);
+        console.log("[Lunarr]", "Something bad happened", err);
       }
     }
 

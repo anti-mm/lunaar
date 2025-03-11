@@ -88,7 +88,7 @@ document.getElementById("search-input").addEventListener("input", (event) => {
 const notifications = [
 	'Have a issue? create a ticket in our <a href="https://discord.gg/parcoil" class="link">Discord Server</a>',
 	'Try our our other proxy <a href="https://gostarlight.xyz" class="link">Starlight</a>',
-	'Dont forget to star lunaar on <a href="https://github.com/Parcoil/lunaar" class="link">Github</a>',
+	'Dont forget to star lunarr on <a href="https://github.com/Parcoil/lunaar" class="link">Github</a>',
 	'Join the <a href="https://discord.gg/parcoil" class="link">Discord Server</a>',
 	"🧀",
 	"idk what to put here",

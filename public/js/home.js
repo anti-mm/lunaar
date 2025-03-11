@@ -1,7 +1,7 @@
 document.body.style.overflow = "hidden";
 
 const texts = [
-	"Lunaar",
+	"Lunarr",
 	"Freedom",
 	"Perfection",
 	"The Future",
