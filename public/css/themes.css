@@ -123,7 +123,12 @@ body[theme="ghost"] {
   background-size: cover;
   background-position: center;
 }
-
+body[theme="blue"] {
+  --bg: #000;
+  --textcolor: #fff;
+  --button: #2700ff;
+  --alt: rgb(0 88 255);
+}
 body[theme="bone"] {
   --background-filter: blur(3px) brightness(80%);
   --logo: #888888;

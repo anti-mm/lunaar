@@ -5,6 +5,12 @@ fetch("/json/apps.json")
       const appContainer = document.getElementById("app-container");
       appContainer.innerHTML = "";
 
+      if (!filteredApps || filteredApps.length === 0) {
+        const html = `<div><i class="fa-solid fa-circle-exclamation big-icon"></i><h1>No Apps found. </h1></div>`;
+        appContainer.innerHTML = html;
+        return;
+      }
+
       filteredApps.forEach((data) => {
         const appDiv = document.createElement("div");
         appDiv.classList.add("app", "fade-in");

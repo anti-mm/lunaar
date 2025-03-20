@@ -341,6 +341,10 @@ button.logo {
 
   border-radius: 5px;
 }
+.title-icon {
+  font-size: 30px;
+  margin: 0;
+}
 
 #particles-js {
   position: fixed;

@@ -7,9 +7,13 @@ const texts = [
   "The Future",
   "The Ultimate Proxy",
   "The best site!",
+  "Speed",
+  "Privacy",
+  "Security",
+  "Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles Pickles",
 ];
-const typingSpeed = 100;
-const delayBetweenTexts = 2000;
+const typingSpeed = 90;
+const delayBetweenTexts = 1500;
 
 let currentTextIndex = 0;
 let currentCharIndex = 0;
