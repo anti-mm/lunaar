@@ -71,6 +71,20 @@
 		"proxy": true
 	},
 	{
+		"name": "Sandbox City",
+		"image": "sandbox-city.webp",
+		"url": "https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?v=1.327",
+		"new": true,
+		"proxy": true
+	},
+	{
+		"name": "Slice Master",
+		"image": "slicemaster.webp",
+		"url": "https://www.coolmathgames.com/0-slice-master/play",
+		"new": true,
+		"proxy": true
+	},
+	{
 		"name": "Two Hands of Satan",
 		"image": "twohandsofsatan.webp",
 		"url": "https://html-classic.itch.zone/html/11888883/index.html",
@@ -102,6 +116,13 @@
 		"name": "Five Nights at Freddy's 1",
 		"image": "freddy.webp",
 		"url": "https://run3.io/popgame/fnaf/fnaf1/",
+		"new": true,
+		"proxy": true
+	},
+	{
+		"name": "Five Nights at Freddy's 2",
+		"image": "freddy2.webp",
+		"url": "https://run3.io/popgame/fnaf/fnaf2.html",
 		"new": true,
 		"proxy": true
 	},
@@ -449,7 +470,7 @@
 	{
 		"name": "Basketball Stars",
 		"image": "basketballstars.webp",
-		"url": "https://5dd33196-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/36935933-5052-4dad-80ac-ae6f13020276/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-f0e2210ee52f43a739fcb9af425ccdc48e0f4e6f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbasketball-stars&hoist=yes&nonPersonalized=n&familyFriendly=n&categories=2%2C76%2C130%2C750%2C775%2C929%2C1103%2C1109%2C1123%2C1139%2C1140%2C1147%2C1168%2C1193%2C1201%2C1202&ab=6b2076f9c2fa162199fe491f83ee1f2f273f2222&experiment=a-d50e9ec5&special_condition=landing&game_id=5dd33196-015f-11ea-ad56-9cb6d0d995f7&game_version_id=36935933-5052-4dad-80ac-ae6f13020276&inspector=0&csp=1",
+		"url": "https://basketball-stars.io/game/basketball-stars/",
 		"new": false,
 		"proxy": true,
 		"updated": false
